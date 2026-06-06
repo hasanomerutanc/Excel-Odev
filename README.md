@@ -1,8 +1,3 @@
-# İş Analitiği Uygulamaları - Ödev 2
-
-Bu depo, Konya Teknik Üniversitesi Endüstri Mühendisliği Bölümü İş Analitiği Uygulamaları dersi Ödev-2 çalışmalarını içermektedir.
-
----
 
 ### 📝 Soru 1
 Ödev ekinde verilen Excel dokümanındaki **"Soru-1"** isimli Excel sayfasının **A sütununda** "0" ile "4" arasında "0.1" birim artışlı rakamları yerleştirin ve **X** başlığı verin. 
